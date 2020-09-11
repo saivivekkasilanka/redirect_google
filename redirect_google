@@ -1,0 +1,13 @@
+Sir, unable to complete the given question because we never worked on fastify.js and I tried hard to develop the api but can't able to do it sir. 
+Thank you for your consideration sir.
+
+sir, I have done the question using different way 
+code:
+import Vue from 'vue'
+import Router from 'vue-router'
+
+Vue.use(Router)
+
+router.get("/g",(req, res) => {
+   res.redirect('https://www.google.com/')
+});
